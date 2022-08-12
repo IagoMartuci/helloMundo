@@ -1,4 +1,89 @@
-h1{
-  background-color: aqua;
-  color: brown;
+/*h1{
+  color: aqua;
+  background-color: deeppink;
 }
+h2{
+  color: black;
+  background-color: chartreuse;
+}
+/* "*" Trata a página inteira */
+/*div {
+  background-color: rgb(14, 35, 53);
+  color: aqua;
+  width: 900px;
+  height: 600px;
+}*/
+
+#tudo {
+  width: 700px;
+  height: 700px;
+  background-color: green
+}
+
+#cabecalho{
+  width: 680px;
+  height: 100px;
+  background-color: aquamarine;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+#logo{
+  width: 100px;
+  height: 80px;
+  background-color: deeppink;
+  margin-left: 5px;
+  margin-top: 10px;
+  padding-left: 5px;
+  float: left;
+}
+
+#corpo{
+  width: 680px;
+  height: 500px;
+  background-color: rgb(14, 35, 53);
+  color: white;
+  margin-left: 10px;
+  margin-top: 5px;
+}
+
+#menutop{
+  width: 500px;
+  height: 50px;
+  background: lawngreen;
+  color: black;
+  margin-left: auto;
+  margin-right: 5px;
+  margin-top: 5px;
+  float: right;
+}
+
+#menuleft{
+width: 160px;
+height: 490px;
+background-color: lawngreen;
+color: black;
+margin-top: 5px;
+margin-left: 5px;
+float: left;
+}
+
+#rodape{
+  width: 680px;
+  height: 90px;
+  background-color: aqua;
+  margin-top: 5px;
+  margin-left: 10px;
+}
+
+#contato{
+  width: 100px;
+  height: 50px;
+  background-color: purple;
+  color: white;
+  margin-top: 25px;
+  margin-right: 5px;
+  padding-left: 5px;
+  float: right
+}
+
